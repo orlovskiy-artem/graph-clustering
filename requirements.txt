@@ -1,0 +1,8 @@
+PyQt5
+matplotlib
+networkx
+numpy
+sklearn
+pylint
+pandas
+autopep8aut

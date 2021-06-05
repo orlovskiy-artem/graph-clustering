@@ -1,0 +1,22 @@
+Welcome to graph clustering program guide!
+
+Algorithms:
+1) MCL - Markov clustering, doesn't require any special parameters
+2) KMedoid - KMedoid clustering, The k-medoids or partitioning around
+             medoids (PAM) algorithm is a clustering algorithm 
+             reminiscent of the k-means algorithm.
+3) Spectral - Spectral clustering, method uses spectral embeddings from 
+              eigenvectors of graph's laplacian. After computing embeddings,
+              KMeans is used. 
+
+Buttons:
+1) Get node embeddings - plot a graph of spectral node embeddings
+1) cluster MCL - use Markov clustering
+2) cluster KMedoid - use KMedoid clustering
+3) cluster Spectral - use KMeans clustering of spectral embeddings
+
+Also, you can save your graphs, load them, export embeddings images. 
+Check "File" menu item next to "Help". 
+
+
+Enjoy!
